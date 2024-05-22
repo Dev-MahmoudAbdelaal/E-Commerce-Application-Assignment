@@ -7,8 +7,7 @@
 <body>
     <h1>🛒 E-Commerce Application Assignment 🛒</h1>
     <p><strong>📋 Objective:</strong></p>
-    <p>Develop a simple eCommerce application using Object-Oriented Programming (OOP) principles in Java. The application should allow users to manage products, customers, and orders.</p>
-    
+    <p>Develop a simple eCommerce application using Object-Oriented Programming (OOP) principles in Java. The application should allow users to manage products, customers, and orders.</p>   
     <h2>🔧 Requirements:</h2>
     <h3>🏗️ Classes and Relationships:</h3>
     <ul>
@@ -55,7 +54,6 @@
             </ul>
         </li>
     </ul>
-
     <h2>🚀 Main Application:</h2>
     <p>Create a Main class with a main method to interact with the user. Implement a simple text-based menu to perform the following actions:</p>
     <ul>
@@ -68,7 +66,6 @@
         <li>🆕 Create a new order</li>
         <li>📃 View all orders</li>
     </ul>
-
     <h2>📂 Project Structure:</h2>
     <p>The project should be organized into packages to separate different concerns:</p>
     <ul>
